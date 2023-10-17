@@ -5,3 +5,6 @@
 [submodule "protHMM"]
 	path = protHMM
 	url = https://github.com/semran9/prothmm
+[submodule "tfNeuralODE"]
+	path = tfNeuralODE
+	url = https://github.com/semran9/tfneuralode
